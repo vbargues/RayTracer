@@ -1,0 +1,155 @@
+name {
+	demo
+render {
+	mlx_all_objects {
+		1000
+		1000
+filter {
+	plop
+camera {
+	origin {
+		0.0
+		0.0
+		-300.0
+	rotation {
+		0.0
+		0.0
+		0.0
+	focal {
+		0.3
+	distance {
+		200.0
+}
+object {
+	brightness {
+		0.0
+	spec {
+		1.0
+	color {
+		0.0
+		0.0
+		0.0
+	transpa {
+		1.0
+	indice {
+		1.6
+	sphere {
+		coord {
+			0.0
+			0.0
+			-280.0
+		radius {
+			5.0
+}
+}
+object {
+	brightness {
+		0.0
+	spec {
+		0.8
+	color {
+		255.0
+		100.0
+		20.0
+	cone {
+		coord {
+			50.0
+			-20.0
+			0.0
+		rotation {
+			0.0
+			0.0
+			0.7153
+		angle {
+			0.6353
+		bot {
+			400.0
+		top {
+			1500.0
+}
+}
+object {
+	brightness {
+		0.0
+	spec {
+		0.0
+	color {
+		130.0
+		120.0
+		250.0
+	plan {
+		coord {
+			0.0
+			0.0
+			1.0
+			-90.0
+}
+}
+object {
+	brightness {
+		0.0
+	spec {
+		0.8
+	color {
+			120.0
+			240.0
+			120.0
+	sphere {
+		coord {
+			-50.0
+			20.0
+			-100.0
+		radius {
+			40.0
+}
+}
+object {
+	brightness {
+		0.0
+	spec {
+		0.0
+	color {
+		190.0
+		200.0
+		180.0
+	plan {
+		coord_plan {
+			0.0
+			1.0
+			0.0
+			-32.0
+}
+}
+light {
+	intensity {
+		1.5
+	color {
+		200.0
+		200.0
+		200.0
+	sphere {
+		coord {
+			75.0
+			-20.0
+			-250.0
+		radius {
+			100.0
+}
+}
+light {
+	intensity {
+		0.5
+	color {
+		250.0
+		180.0
+		180.0
+	sphere {
+		coord {
+			-75.0
+			-20.0
+			-250.0
+		radius {
+			100.0
+}
+}
+}

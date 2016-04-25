@@ -1,0 +1,65 @@
+name {
+	demo
+render {
+	mlx_all_objects {
+		1000
+		1000
+camera {
+	origin {
+		0.0
+		0.0
+		-300.0
+	rotation {
+		0.0
+		0.0
+		0.0
+	focal {
+		0.3
+	distance {
+		200.0
+}
+object {
+	brightness {
+		0.0
+	spec {
+		0.6
+	transpa {
+		0.0
+	indice {
+		0.8
+	color {
+		120.0
+		0.0
+		0.0
+	texture {
+		texture/wall_text.xpm
+	normal {
+		normal_map/wall_norm.xpm
+	rep {
+		3
+	sphere {
+		coord {
+			0.0
+			0.0
+			0.0
+		radius {
+			90.0
+}
+}
+light {
+	intensity {
+		1.0
+	color {
+		255.0
+		255.0
+		255.0
+	sphere {
+		coord {
+			-100.0
+			-120.0
+			-200.0
+		radius {
+			0.0
+}
+}
+}

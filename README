@@ -1,0 +1,5 @@
+Voici les source du Ray Tracer que j'ai réalisé dans le cadrede mes études à 42.
+Il s'agit d'un programme de rendu d'image en 3d.
+Malheureusement, il marche avec la libraire graphique de l'école.
+Si vous l'avez, pour lancer le programme : ./rt scenes/NomDeLaScene
+Si non, vous pouvez retrouvez quelques images ici : http://imgur.com/a/ceFeV

@@ -1,0 +1,197 @@
+name {
+	demo
+render {
+	mlx_all_objects {
+		1000
+		1000
+camera {
+	origin {
+		280.0
+		-120.0
+		-300.0
+	rotation {
+		0.1
+		0.0
+		0.0
+	focal {
+		0.3
+	distance {
+		200.0
+}
+object {
+	brightness {
+		0.0
+	spec {
+		0.0
+	color {
+		50.0
+		100.0
+		255.0
+	texture {
+		texture/krusty.xpm
+	text_x {
+		500.0
+	text_y {
+		360.0
+	plan {
+		coord {
+			0.0
+			0.0
+			1.0
+			-90.0
+}
+}
+object {
+	brightness {
+		0.5
+	spec {
+		0.0
+	color {
+		90.0
+		160.0
+		255.0
+	normal {
+		normal_map/water3_norm.xpm
+	text_x {
+		120.0
+	text_y {
+		120.0
+	plan {
+		coord_plan {
+			0.0
+			1.0
+			0.0
+			-1.0
+}
+}
+object {
+	brightness {
+		0.0
+	spec {
+		0.0
+	color {
+			255.0
+			0.0
+			0.0
+	texture {
+		texture/pat.xpm
+	rep {
+		1
+	sphere {
+		coord {
+			390.0
+			-50.0
+			-20.0
+		radius {
+			40.0
+}
+}
+object {
+	brightness {
+		0.0
+	spec {
+		0.0
+	color {
+			255.0
+			0.0
+			0.0
+	texture {
+		texture/carlo.xpm
+	rep {
+		1
+	sphere {
+		coord {
+			130.0
+			-15.0
+			-20.0
+		radius {
+			40.0
+}
+}
+object {
+	brightness {
+		0.0
+	spec {
+		0.0
+	color {
+			255.0
+			0.0
+			0.0
+	texture {
+		texture/bob.xpm
+	rep {
+		1
+	sphere {
+		coord {
+			280.0
+			-40.0
+			0.0
+		radius {
+			40.0
+}
+}
+light {
+	intensity {
+		1.5
+	color {
+		210.0
+		210.0
+		210.0
+	sphere {
+		coord {
+			280.0
+			-10.0
+			-250.0
+		radius {
+			100.0
+}
+}
+light {
+	intensity {
+		1.0
+	color {
+		200.0
+		200.0
+		200.0
+	sphere {
+		coord {
+			280.0
+			-10.0
+			40.01
+		radius {
+			100.0
+}
+}
+light {
+	intensity {
+		1.0
+	color {
+		200.0
+		200.0
+		200.0
+	sphere {
+		coord {
+			390.0
+			-50.0
+			20.01
+		radius {
+			100.0
+}
+}
+light {
+	intensity {
+		1.0
+	color {
+		200.0
+		200.0
+		200.0
+	sphere {
+		coord {
+			120.0
+			15.0
+			20.01
+		radius {
+			100.0
+}
+}
+}

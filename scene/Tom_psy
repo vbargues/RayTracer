@@ -1,0 +1,645 @@
+name {
+	Psy
+render {
+	mlx_all_objects {
+		1000
+		1000
+camera {
+	origin {
+		-10.0
+		-90.0
+		-250.0
+	rotation {
+		0.2
+		0.40
+		0.0
+	focal {
+		0.3
+	distance {
+		200.0
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		40.0
+		40.0
+		40.0
+	cylinder {
+		coord {
+			-130.0
+			-33.0
+			-95.0
+		rotation {
+			-0.65
+			0.0
+			0.0
+		radius {
+			1.0
+		height {
+			80.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		40.0
+		40.0
+		40.0
+	cylinder {
+		coord {
+			-130.0
+			-33.0
+			-145.0
+		rotation {
+			0.65
+			0.0
+			0.0
+		radius {
+			1.0
+		height {
+			80.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		40.0
+		40.0
+		40.0
+	cylinder {
+		coord {
+			-100.0
+			-65.0
+			-120.0
+		rotation {
+			0.0
+			0.0
+			1.57
+		radius {
+			1.0
+		height {
+			60.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		40.0
+		40.0
+		40.0
+	cylinder {
+		coord {
+			-70.0
+			-33.0
+			-95.0
+		rotation {
+			-0.65
+			0.0
+			0.0
+		radius {
+			1.0
+		height {
+			80.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		40.0
+		40.0
+		40.0
+	cylinder {
+		coord {
+			-70.0
+			-33.0
+			-145.0
+		rotation {
+			0.65
+			0.0
+			0.0
+		radius {
+			1.0
+		height {
+			80.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		40.0
+		40.0
+		40.0
+	transpa {
+		0.0
+	indice {
+		0.0
+	cylinder {
+		coord {
+			-123.0
+			-50.0
+			-120.0
+		rotation {
+			0.0
+			0.0
+			-0.4
+		radius {
+			0.3
+		height {
+			32.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		40.0
+		40.0
+		40.0
+	cylinder {
+		coord {
+			-80.0
+			-50.0
+			-120.0
+		rotation {
+			0.0
+			0.0
+			0.0
+		radius {
+			0.3
+		height {
+			30.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		40.0
+		40.0
+		40.0
+	cylinder {
+		coord {
+			-90.0
+			-50.0
+			-120.0
+		rotation {
+			0.0
+			0.0
+			0.0
+		radius {
+			0.3
+		height {
+			30.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		40.0
+		40.0
+		40.0
+	cylinder {
+		coord {
+			-100.0
+			-50.0
+			-120.0
+		rotation {
+			0.0
+			0.0
+			0.0
+		radius {
+			0.3
+		height {
+			30.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		40.0
+		40.0
+		40.0
+	cylinder {
+		coord {
+			-100.0
+			-50.0
+			-120.0
+		rotation {
+			0.0
+			0.0
+			0.0
+		radius {
+			0.3
+		height {
+			30.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		40.0
+		40.0
+		40.0
+	cylinder {
+		coord {
+			-110.0
+			-50.0
+			-120.0
+		rotation {
+			0.0
+			0.0
+			0.0
+		radius {
+			0.3
+		height {
+			30.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		40.0
+		40.0
+		40.0
+	transpa {
+		0.0
+	indice {
+		1.0
+	sphere {
+		coord {
+			-130.0
+			-33.0
+			-120.0
+		radius {
+			5.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		130.0
+		130.0
+		130.0
+	transpa {
+		0.0
+	indice {
+		1.0
+	sphere {
+		coord {
+			-110.0
+			-30.0
+			-120.0
+		radius {
+			5.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		130.0
+		130.0
+		130.0
+	transpa {
+		0.0
+	indice {
+		1.0
+	sphere {
+		coord {
+			-100.0
+			-30.0
+			-120.0
+		radius {
+			5.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		130.0
+		130.0
+		130.0
+	transpa {
+		0.0
+	indice {
+		1.0
+	sphere {
+		coord {
+			-90.0
+			-30.0
+			-120.0
+		radius {
+			5.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		0.0
+	color {
+		130.0
+		130.0
+		130.0
+	transpa {
+		0.0
+	indice {
+		1.0
+	sphere {
+		coord {
+			-80.0
+			-30.0
+			-120.0
+		radius {
+			5.0
+}
+}
+object {
+	brightness {
+		0.0
+	spec {
+		1.0
+	color {
+		40.0
+		40.0
+		40.0
+	cylinder {
+		coord {
+			0.0
+			0.0
+			0.0
+		rotation {
+			0.0
+			0.0
+			0.0
+		radius {
+			45.0
+		height {
+			5.0
+}
+}
+object {
+	brightness {
+		0.0
+	spec {
+		1.0
+	color {
+		40.0
+		40.0
+		40.0
+	cylinder {
+		coord {
+			0.0
+			-125.0
+			0.0
+		rotation {
+			0.0
+			0.0
+			0.0
+		radius {
+			45.0
+		height {
+			5.0
+}
+}
+object {
+	brightness {
+		0.0
+	spec {
+		0.0
+	transpa {
+		1.0
+	indice {
+		1.5
+	color {
+		0.0
+		0.0
+		0.0
+	cone {
+		coord {
+			0.0
+			-65.0
+			0.0
+		rotation {
+			0.0
+			0.0
+			0.0
+		angle {
+			0.5
+		bot {
+			60.0
+		top {
+			63.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		1.0
+	color {
+		40.0
+		40.0
+		40.0
+	transpa {
+		0.0
+	indice {
+		1.0
+    cylinder {
+		coord {
+			-5.0
+			-65.0
+			40.0
+		rotation {
+			0.0
+			0.0
+			0.0
+		radius {
+			4.0
+		height {
+			120.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		1.0
+	color {
+		40.0
+		40.0
+		40.0
+	transpa {
+		0.0
+	indice {
+		1.0
+    cylinder {
+		coord {
+			37.0
+			-65.0
+			0.0
+		rotation {
+			0.0
+			0.0
+			0.0
+		radius {
+			4.0
+		height {
+			120.0
+}
+}
+object {
+	brightness {
+		0.1
+	spec {
+		1.0
+	color {
+		40.0
+		40.0
+		40.0
+	transpa {
+		0.0
+	indice {
+		1.0
+    cylinder {
+		coord {
+			-28.0
+			-65.0
+			-23.0
+		rotation {
+			0.0
+			0.0
+			0.0
+		radius {
+			4.0
+		height {
+			120.0
+}
+}
+object {
+	brightness {
+		0.0
+	spec {
+		0.0
+	color {
+		0.0
+		0.0
+		0.0
+	transpa {
+		0.0
+	indice {
+		1.0
+	texture {
+		texture/parquet2_text.xpm
+	normal {
+		normal_map/parquet2_norm.xpm
+	text_x {
+		50.0
+	text_y {
+		50.0
+	plan {
+		coord {
+			0.0
+			1.0
+			-0.14
+			-3.5
+		def {
+			0.0
+			0.0
+			0.0
+}
+}
+object {
+	brightness {
+		0.0
+	spec {
+		0.0
+	color {
+		80.0
+		80.0
+		180.0
+	transpa {
+		0.0
+	indice {
+		1.0
+	texture {
+		texture/psyflouter.xpm
+	text_x {
+		1200.0
+	text_y {
+		1200.0
+	offset_x {
+		100.0
+	offset_y {
+		-100.0
+	plan {
+		coord {
+			0.0
+			0.0
+			1.0
+			-600.0
+		def {
+			0.0
+			0.0
+			0.0
+}
+}
+light {
+	intensity {
+		1.0
+	color {
+		250.0
+		180.0
+		180.0
+	sphere {
+		coord {
+			-100.0
+			-100.0
+			-200.0
+		radius {
+			100.0
+}
+}
+}
