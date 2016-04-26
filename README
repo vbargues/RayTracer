@@ -1,5 +1,6 @@
-Voici les source du Ray Tracer que j'ai réalisé dans le cadre de mes études à 42.
+Voici les sources du Ray Tracer que j'ai réalisé dans le cadre de mes études à 42.
+Il est réalisé à la norme de 42 (fonctions de 25 lignes max, une fonction pas statique par fichier, pas de for...).
 Il s'agit d'un programme de rendu d'image en 3d.
 Malheureusement, il marche avec la libraire graphique de l'école.
 Si vous l'avez, pour lancer le programme : ./RT scenes/NomDeLaScene
-Si non, vous pouvez retrouvez quelques images ici : http://imgur.com/a/ceFeV
+Sinon, vous pouvez retrouver quelques images ici : http://imgur.com/a/ceFeV
